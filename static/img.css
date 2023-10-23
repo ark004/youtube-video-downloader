@@ -1,0 +1,28 @@
+/* styles.css */
+
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+} */
+
+.image-container {
+    text-align: center;
+}
+
+.image-container img {
+    max-width: 20%;
+}
+
+/* headings */
+
+h1 {
+    font-family: Arial, sans-serif; /* Set the font family */
+    font-size: 24px; /* Set the font size */
+    font-weight: bold; /* Set the font weight to make it bold */
+    color: #333; /* Set the font color */
+    text-align: center; /* Align the text to the center */
+    /* Add more font-related properties as needed */
+}
